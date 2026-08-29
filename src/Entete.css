@@ -1,0 +1,23 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+    background-image: url('./assets/Bandeau.jpeg');
+    background-size: cover;
+    background-position: 0px 30%;
+    width: 100%;
+    height: 125px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Tinos", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: x-large;
+}

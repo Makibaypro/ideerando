@@ -1,0 +1,34 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.hero {
+  background-color: rgb(38, 60, 38);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 100%;
+}
+
+.cardGRP {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 60%;
+  margin-top: 10px;
+  padding-left: 7.5%;
+}
+
+.title {
+    display: flex;
+    color: rgb(0, 0, 93);
+    font-family: "Tinos", serif;
+    font-weight: 700;
+    font-style: normal;
+}
