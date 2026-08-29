@@ -32,7 +32,7 @@ export const Picture = ({ cardData }) => {
                 <dt>Difficulté :</dt>
                 <dd>{cardData.difficulte}</dd>
                 <dt>Durée :</dt>
-                <dd>{cardData.duree_h}</dd>
+                <dd>{cardData.duree_h} h</dd>
                 <dt>Dénivelé :</dt>
                 <dd>{cardData.denivele_m} m</dd>
             </dl>

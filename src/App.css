@@ -7,7 +7,9 @@
 }
 
 .hero {
-  background-color: rgb(38, 60, 38);
+  background-image: linear-gradient(rgba(203, 194, 176, 0.69), rgba(50, 49, 49, 0.538)), url("./assets/forestblurry.jpg");
+  background-size: cover;
+
   display: flex;
   flex-direction: row;
   justify-content: space-between;

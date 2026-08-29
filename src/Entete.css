@@ -20,4 +20,9 @@
     font-weight: 700;
     font-style: normal;
     font-size: x-large;
+    color: wheat;
+
+    p {
+      text-shadow: 2px 2px 3px black;
+    }
 }
