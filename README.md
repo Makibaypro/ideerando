@@ -4,7 +4,7 @@ Petit catalogue de randonnées réalisé en React : on choisit une randonnée da
 
 Projet individuel réalisé pendant ma formation à Ada Tech School (semaine 13), pour pratiquer les bases de React.
 
-<!-- Ajoute ici une capture d'écran : ![Aperçu de l'application](./docs/apercu.png) -->
+![Aperçu de l'application](./docs/Screenshot1.png)
 
 ## Fonctionnalités
 
