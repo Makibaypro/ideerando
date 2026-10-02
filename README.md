@@ -56,6 +56,10 @@ src/Footer.jsx         Pied de page
 - Ajouter un filtre par difficulté ou par région
 - Remplacer les liens d'exemple du pied de page
 
+## Crédits
+
+Toutes les images de l'application ont été générées par IA.
+
 ## Auteur
 
 Maxence Chotard
